@@ -1,0 +1,13 @@
+____________________________________________________________________
+I Understand the concepts of Grid, Stackpanel, Dockpanel amd Wrappanel.
+
+I just played around with these Little Components and Understood how to
+
+ make use of them while designing a big project. 
+
+
+Next day Also I will Work on that.
+
+
+
+_____________________________________________________________________ 
