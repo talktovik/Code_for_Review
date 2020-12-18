@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\bin\Debug\World_clock_model_3.exe.config
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\bin\Debug\World_clock_model_3.exe
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\bin\Debug\World_clock_model_3.pdb
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.Form1.resources
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.Properties.Resources.resources
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.exe
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.pdb
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\Traning_module\World_clock_model_3\World_clock_model_3\obj\Debug\World_clock_model_3.csproj.CopyComplete

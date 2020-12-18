@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\bin\Debug\Clock APP.exe.config
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\bin\Debug\Clock APP.exe
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\bin\Debug\Clock APP.pdb
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock APP.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock_APP.Form1.resources
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock_APP.Properties.Resources.resources
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock APP.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock APP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock APP.exe
+C:\Users\Admin\Desktop\Traning_module\Clock APP\Clock APP\obj\Debug\Clock APP.pdb

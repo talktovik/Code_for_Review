@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\bin\Debug\WoldMapModified.exe.config
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\bin\Debug\WoldMapModified.exe
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\bin\Debug\WoldMapModified.pdb
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.Form1.resources
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.Properties.Resources.resources
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.exe
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.pdb
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Traning_module\WoldMapModified\WoldMapModified\obj\Debug\WoldMapModified.csproj.CopyComplete

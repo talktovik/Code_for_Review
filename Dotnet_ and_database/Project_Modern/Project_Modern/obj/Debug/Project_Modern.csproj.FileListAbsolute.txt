@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\bin\Debug\Project_Modern.exe.config
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\bin\Debug\Project_Modern.exe
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\bin\Debug\Project_Modern.pdb
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.Login.resources
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.Properties.Resources.resources
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.csproj.CopyComplete
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.exe
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.pdb
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.Main.resources
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.Menu.resources
+C:\Users\Admin\Desktop\Xprogram\Project_Modern\Project_Modern\obj\Debug\Project_Modern.Timetable.resources
