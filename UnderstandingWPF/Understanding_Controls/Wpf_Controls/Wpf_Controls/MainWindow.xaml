@@ -1,0 +1,91 @@
+﻿<Window x:Class="Wpf_Controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Controls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.Background>
+                <ImageBrush ImageSource="C:\Users\Vikas\source\repos\Wpf_Controls\Wpf_Controls\Images\mitchell-luo-FWoq_ldWlNQ-unsplash.jpg"/>
+            </Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="20"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                
+                <ColumnDefinition Width="20"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="20"/>
+
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="2" Grid.Column="2" >
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" > StackPanel A1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D1</Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="3" >
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel A2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D2</Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="4" >
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel A2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D2</Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="5" >
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel A1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C1</Button>
+                <Button Background="#FF43EA8D" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D1</Button>
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="6" >
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel A2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C2</Button>
+                <Button Background="#FF00BC53" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D2</Button>
+            </StackPanel>
+
+           <!-- <StackPanel Grid.Row="2" Grid.Column="4" >
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel A2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel B2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >StackPanel C2</Button>
+                <Button Background="#FF137F43" BorderBrush="#FFAD0202" FontFamily="Bahnschrift Light" FontSize="14" >Stackpanel D2</Button>
+            </StackPanel>
+            
+-->
+
+            <WrapPanel  Grid.Row=" 3" Grid.Column="1" Grid.ColumnSpan="5">
+                <Button Width="100">Button</Button>
+                <Button>Wrappanel A</Button>
+                <Button>Wrappanel A</Button>
+                <Button>Wrappanel A</Button>
+            </WrapPanel>
+            
+        </Grid>
+
+    </Grid>
+</Window>
